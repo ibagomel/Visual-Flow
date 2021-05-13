@@ -1,0 +1,16 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ibagomel/Visual-Flow-backend
+	branch = tags/v0.9.0
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ibagomel/Visual-Flow-frontend
+	branch = tags/v0.9.0
+[submodule "jobs"]
+	path = jobs
+	url = https://github.com/ibagomel/Visual-Flow-jobs
+	branch = tags/v0.9.0
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/ibagomel/Visual-Flow-deploy
+	branch = tags/v0.9.0
