@@ -13,3 +13,9 @@ Visual Flow application is divided into the following repositories:
 - [Visual-Flow-backend](https://github.com/ibagomel/Visual-Flow-backend)
 - [Visual-Flow-jobs](https://github.com/ibagomel/Visual-Flow-jobs)
 - [Visual-Flow-deploy](https://github.com/ibagomel/Visual-Flow-deploy)
+
+## Contribution
+[Check the official guide](./CONTRIBUTING.md).
+
+## License
+Visual flow is an open-source software licensed under the [Apache-2.0 license](./LICENSE).
