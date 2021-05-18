@@ -19,11 +19,11 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 ## Do you intend to add a new feature or change an existing one?
 
-- Contact us via email
+- Contact us via email: [VisualFlow@gomel.iba.by](mailto:VisualFlow@gomel.iba.by)
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
 ## Do you have questions about the source code?
 
-Ask any question about Visual Flow via email
+Ask any question about Visual Flow via email: [VisualFlow@gomel.iba.by](mailto:VisualFlow@gomel.iba.by)
 
-_Visual Flow team_
+_[Visual Flow team](mailto:VisualFlow@gomel.iba.by)_
