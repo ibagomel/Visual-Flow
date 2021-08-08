@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.9.4 (2021-07-30)
+
+### Improvements and new features:
+
+- Added a public buckets support of AWS S3 due to the separation of AWS S3 and IBM COS in the Configuration panel.
+- Jobs or pipelines export/import are available via JSON instead of string.
+- On the Pipelines screen Search field doesn't clear after running pipeline.
+
+### Fixed:
+
+- Fixed the Run button after stopping pipeline in the Pipeline Designer.
+- Fixed displaying Jobs and Pipelines lists after sorting or running.
+- Fixed status "Terminated" in the Pipeline Designer.
+- Fixed the displaying of an orange warning header about saving.
+
 ## 0.9.3 (2021-07-16)
 
 ### Improvements and new features:
