@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.9.5 (2021-08-27)
+
+### Improvements and new features:
+
+- Added check during import that job/pipeline parameters exist in project params.
+- Added custom SQL option to Read stage.
+- Added IAM support for IBM COS storage.
+
+### Fixed:
+
+- Fixed white screen issue on the Job List page after switching to another project.
+
 ## 0.9.4 (2021-07-30)
 
 ### Improvements and new features:
