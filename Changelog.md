@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+**NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
+
+## 0.9.6 (2021-09-10)
+
+### Improvements and new features:
+
+- Added case-ignoring when searching.
+- Old parameters of read and write stages are cleaning now after the source type change.
+- Added check of resource limits on pipeline start.
+- "Run" button is now disabled, when changes of pipelines/jobs are not saved.
+
+### Fixed:
+
+- Fixed error 401 when pushing some buttons after long inactivity.
+- Fixed Zoom and Pan Tool icon that save the previous value from the recently opened job/pipeline.
+- Fixed text offset in Pipelines/Jobs lists, when changing the size of the browser window.
+
 ## 0.9.5 (2021-08-27)
 
 ### Improvements and new features:
