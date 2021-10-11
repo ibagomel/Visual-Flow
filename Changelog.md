@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.7 (2021-10-02)
+
+### Improvements and new features:
+
+- New data sources: PostgreSQL, MySQL/Maria, MSSQL, Oracle.
+- New pipeline stage for running custom code - Custom container.
+- Added ability to specify resource units in Custom container configuration panel.
+- Added logs button for Custom container stage.
+- In job logs added total rows number for each job stage.
+- The Stop button is displayed in "Pending" status.
+
+### Fixed:
+
+- Fixed the bug related to the display of a white screen after double click notification stage, when a pipeline is terminated.
+- Fixed Info icon in Custom container configuration panel.
+- Make "mount project params" is an optional field in the Custom container configuration.
+
 ## 0.9.6 (2021-09-10)
 
 ### Improvements and new features:
