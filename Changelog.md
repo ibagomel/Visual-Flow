@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.8 (2021-10-15)
+
+### Improvements and new features:
+
+- Added tooltips for icons in Job and Pipeline designers.
+- Filtered Logs are displayed after updating. 
+- All statuses are available for sorting of jobs and pipelines in drop-down list.
+
+### Fixed:
+
+- Job logs URL contains both job ID and job Name.
+- Fixed "white screen" displaying after the opening of Job/Pipeline Designer. If the pipeline or job was created via the API, then the appropriate message is shown.  
+- Fixed the loading of a Job/Pipeline Designer after entering and saving params. 
+
 ## 0.9.7 (2021-10-02)
 
 ### Improvements and new features:
