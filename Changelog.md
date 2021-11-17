@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.9 (2021-10-29)
+
+### Improvements and new features:
+
+- New data sources: Cassandra, Mongo.
+- Added time difference between current and UTC in Last run filter.
+- Export files in a JSON format instead of Text.
+- Added all statuses to Overview page.
+
+### Fixed:
+
+- Fixed data output in STDOUT storage.
+- The Table field for MySQL/MSSQL/ORACLE/PostgreSQL storage stores a value set by the user in the Configuration panel.
+- Removed the STDOUT storage from the list for Read stage. 
+- Fixed editing the PARAMS panel of a new job, after running an existing one.
+- Fixed editing a PALETTE/PARAMS panel, when the job was run and executed in Job Designer page.
+
 ## 0.9.8 (2021-10-15)
 
 ### Improvements and new features:
