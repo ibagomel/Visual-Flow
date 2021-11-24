@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.10 (2021-11-12)
+
+### Improvements and new features:
+
+- New data source: Redis.
+- The orange header with warning message is not displayed after clicking the Confirm button without changes.
+- Logs filters are displayed as multiselect dropdown list.
+​
+### Fixed:
+
+- Runtime information (logs, status) is cleared after saving the edited job.
+
 ## 0.9.9 (2021-10-29)
 
 ### Improvements and new features:
