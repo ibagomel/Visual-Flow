@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.11 (2021-12-10)
+
+### Improvements and new features:
+
+- Added a full description for using the Transformer stage.
+- New level in Logs window - Result.
+- The search for the entered value does not depend on which register, it's displayed in Logs window.
+
+### Fixed:
+
+- Fixed Read and Write stages descriptions. 
+- Container icon displays properly if Container stage was added to the created and launched pipeline. 
+- Fixed displaying the orange header after editing.
+- Adjusted malformed log configuration for Spark.
+- Implemented 'Return all' function for Change data capture stage.  
+
 ## 0.9.10 (2021-11-12)
 
 ### Improvements and new features:
@@ -11,7 +27,7 @@ All notable changes to this project will be documented in this file.
 - New data source: Redis.
 - The orange header with warning message is not displayed after clicking the Confirm button without changes.
 - Logs filters are displayed as multiselect dropdown list.
-​
+
 ### Fixed:
 
 - Runtime information (logs, status) is cleared after saving the edited job.
