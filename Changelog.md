@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.12 (2021-12-24)
+
+### Improvements and new features:
+
+- New stage in Job Designer - Cache.
+- Added Partition By SQL function to Write stage for IBM COS and AWS S3 storages.
+- Adapted application logs to display user login information
+
+### Fixed:
+
+- Corrected Join stage description.
+- Fixed custom SQL processing for PostgreSQL storage.
+
 ## 0.9.11 (2021-12-10)
 
 ### Improvements and new features:
