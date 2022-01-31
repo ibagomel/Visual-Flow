@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.13 (2022-01-21)
+
+### Improvements and new features:
+
+- New data storage - Redshift.
+- Updated and improved description for: CDC, Union and Transformer stages, function Write mode.
+- Adapted application logs to display user login information.
+- Available action "Edit Child Node".
+
+### Fixed:
+
+- The arrow don't disappear, when changing storages for connecting.
+- Fixed Read/Write stage validation on job level.
+- Changed the order of links in the Join stage.
+- Set the quantity of in-out arrows for each stage.
+- Undo/Redo buttons are disabled in Job/Pipeline Designer before editing. 
+- Fixed displaying of orange header.
+
 ## 0.9.12 (2021-12-24)
 
 ### Improvements and new features:

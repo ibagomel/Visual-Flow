@@ -14,6 +14,7 @@ Visual Flow is an ETL tool designed for effective data manipulation via convenie
   - Cassandra
   - Mongo
   - Redis
+  - Redshift
 - Leverage direct connectivity to enterprise applications as sources and targets
 - Perform data processing and transformation
 - Run custom code
