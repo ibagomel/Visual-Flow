@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.14 (2022-02-04)
+
+### Improvements and new features:
+
+- New parameter for STDOUT storage - Records quantity.
+- Added ability to remove selected value from dropdown list in Pipeline and Job Designers. 
+- The ability to add a stage by double-click.
+- Updated and improved descriptions for:STDOUT storage, Remove duplicates and Transformer stages.
+- Added a scrollbar for Info window.
+- Improved error message when user enters more than 40 symbols in Job/Pipeline Name field.
+
+### Fixed:
+
+- Fixed incorrect display of the Orange header.
+- Fixed an inscription above the arrows after editing.
+- Fixed arrow colors when changing Output Paths value in the Job Stage.
+
 ## 0.9.13 (2022-01-21)
 
 ### Improvements and new features:
