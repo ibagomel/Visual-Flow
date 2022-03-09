@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.15 (2022-02-18)
+​
+### Improvements and new features:
+
+- New operations for DB2, Oracle, MySQL, PostgreSQL, MSSQL, Redshift(JDBC) - Truncate and Truncate Cascade.
+- Created the clear button for fields with numbers. 
+- Applied validation for project parameters, pipeline name.
+- Added the star symbol to required fields in PD and JD.
+- The ability to auto generate file name proposal during export.
+- Added icon with tooltip on stages with missing/invalid parameters in the Pipeline Designer.
+- The ability to go to the list of Jobs/Pipelines, when a user clicks on the appropriate square.
+- 
+### Fixed:
+
+- Fixed CDC error after click on confirm.
+- Fixed warning after moving from the Overview page to the Jobs page and warning after deleting job/pipeline in console. 
+- Confirm button is disabled, when there are empty required fields.
+
 ## 0.9.14 (2022-02-04)
 
 ### Improvements and new features:
