@@ -4,8 +4,22 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
-## 0.9.15 (2022-02-18)
-​
+## 0.9.16 (2022-03-04)
+
+### Improvements and new features:
+
+- Created and configured GitHub Actions self-hosted runner.
+- Created general component to work with stage's tag.
+- Added full query mode to Transformer stage.
+- Validation project parameters in the pipeline.
+
+### Fixed:
+
+- Fixed display of White screen after double click on Container stage in 'Error' pipeline.
+- Fixed incorrect stages coloring when interrupting the pipeline
+
+## 0.9.15 (2022-02-18)wg
+
 ### Improvements and new features:
 
 - New operations for DB2, Oracle, MySQL, PostgreSQL, MSSQL, Redshift(JDBC) - Truncate and Truncate Cascade.
@@ -15,7 +29,7 @@ All notable changes to this project will be documented in this file.
 - The ability to auto generate file name proposal during export.
 - Added icon with tooltip on stages with missing/invalid parameters in the Pipeline Designer.
 - The ability to go to the list of Jobs/Pipelines, when a user clicks on the appropriate square.
-- 
+
 ### Fixed:
 
 - Fixed CDC error after click on confirm.
