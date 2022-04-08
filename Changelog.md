@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
 
+## 0.9.17 (2022-03-18)
+
+### Improvements and new features:
+
+- New stage in the Job Designer - Sort.
+- Improved the display of the Sort stage and its description.
+- Created tooltips for the left menu on the Main screen.
+
+### Fixed:
+
+- All fields are disabled in Configuration panel when Job is running.
+- In the Configuration panel, the sort type field is set to the default value.
+- Fixed a stage color change after deleting of another saved stage in the Pipeline Designer.
+- Fixed the display of the log icon when changing jobs in Job stage in the Pipeline Designer.
+- Fixed the display of the outline/background of the Job stage in the Pipeline Designer.
 ## 0.9.16 (2022-03-04)
 
 ### Improvements and new features:
