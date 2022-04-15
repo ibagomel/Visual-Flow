@@ -3,7 +3,20 @@
 All notable changes to this project will be documented in this file.
 
 **NOTE:** Breaking changes may occur prior to the 1.0.0 release. Please update with caution.
+## 0.9.18 (2022-04-01)
 
+### Improvements and new features:
+
+- Created a new component for a Password field. The ability to show/hide a password.
+
+### Fixed:
+
+- Fixed the unexpected bug in a Join stage.
+- Fixed tooltips in the Pipeline Designer.
+- Context menu is not shown after the stage deleting.
+- The Confirm button is disabled if the type of aggregation operation is not selected.
+- The Configuration panel of a deleted stage is not saved when open config panel of another stage.
+- The Units field in the Container stage configuration is not changed if pressing the Backspace key. 
 ## 0.9.17 (2022-03-18)
 
 ### Improvements and new features:
